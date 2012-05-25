@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.force.api</groupId>
+  <artifactId>force-rest-api</artifactId>
+  <version>0.0.19-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20120525.065215</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20120525065215</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.19-20120525.065215-1</value>
+        <updated>20120525065215</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.19-20120525.065215-1</value>
+        <updated>20120525065215</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

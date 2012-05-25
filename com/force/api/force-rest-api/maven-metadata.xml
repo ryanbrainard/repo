@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.force.api</groupId>
+  <artifactId>force-rest-api</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.19-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120525065215</lastUpdated>
+  </versioning>
+</metadata>
