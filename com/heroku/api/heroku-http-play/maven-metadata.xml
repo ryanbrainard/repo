@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.heroku.api</groupId>
+  <artifactId>heroku-http-play</artifactId>
+  <versioning>
+    <versions>
+      <version>0.10-OAUTH-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120608052706</lastUpdated>
+  </versioning>
+</metadata>
