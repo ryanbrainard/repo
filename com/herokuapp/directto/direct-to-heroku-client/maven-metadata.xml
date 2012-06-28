@@ -3,10 +3,11 @@
   <groupId>com.herokuapp.directto</groupId>
   <artifactId>direct-to-heroku-client</artifactId>
   <versioning>
-    <release>0.5-BETA</release>
+    <release>0.6-BETA</release>
     <versions>
       <version>0.5-BETA</version>
+      <version>0.6-BETA</version>
     </versions>
-    <lastUpdated>20120625192841</lastUpdated>
+    <lastUpdated>20120628234419</lastUpdated>
   </versioning>
 </metadata>
