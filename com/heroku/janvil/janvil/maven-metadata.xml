@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.heroku.janvil</groupId>
+  <artifactId>janvil</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1-BETA-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120906214834</lastUpdated>
+  </versioning>
+</metadata>
